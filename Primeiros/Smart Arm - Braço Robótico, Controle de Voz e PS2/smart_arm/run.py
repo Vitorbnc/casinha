@@ -7,7 +7,7 @@ import actions as act
 import json
 
 mqtt_broker_host = '127.0.0.1' #"127.0.0.1" 
-mqtt_broker_port = 1883
+mqtt_broker_port = 1000
 mqtt_keepalive_secs = 60
 
 subTopic = 'hiper'
@@ -48,8 +48,9 @@ def on_message(mqttc, obj, msg):
 
 	if not "appId" in j:
 		return
-	global appId = j["appId"]
-	process(input)
+	global appId
+	appId = j["appId"]
+	process(payload,j)
 
 
 
@@ -63,20 +64,22 @@ def found(what,there):
 			if i in there:
 				return True
 	return False
-	
+
+
 def send(msg,topic=pubTopic):
 	print("Sending " + msg)
 	publish(msg,topic)
+	if("stop" in msg): return
 	global last_msg_sent
 	last_msg_sent = msg
 
-def send(msg,topic=pubTopic):
+def sendTTS(msg,topic=subTopic):
 	response = {"tts":msg,"appId":appId}
 	#generate json-fortmatted str from python dict
 	global last_msg_sent
 	last_msg_sent = msg
 	j = json.dumps(response)
-	publish(j)
+	publish(j,topic)
 
 
 def send_reversed(intent):
@@ -85,17 +88,32 @@ def send_reversed(intent):
 	else:
 		send(act.get_cmd(act.get_opposite(intent)))
 
-def process(input):
+def process_user_cmd(cmd):
+	if(cmd=="stop"): send(act.get_cmd("stop"))
+
+
+
+def process(input,json_input):
 	#simple filter
 	if len(input.replace(' ',''))<2:
 		return
 
 	print("Processing query:"+ str(input))
 
+	if("cmd" in json_input):
+		process_user_cmd(json_input["cmd"])
+		return
+
+	if("stt" in json_input):
+		input = json_input["stt"]
+	else:
+		return
+
 	intent = classifier.predict(input)
 
 	if intent =='repeat':
-		send(last_msg_sent,appId)
+		#sendTTS(last_msg_sent,appId)
+		send(last_msg_sent)
 
 	elif intent =='reverse':
 		send_reversed(act.last_hw_intent)
@@ -103,7 +121,8 @@ def process(input):
 	if intent in act.utterances.keys():
 		txt=act.get_random_utterance(intent)
 		j = '{\"tts\":\"'+txt+'\"}'
-		publish(j,subTopic)
+		#publish(j,subTopic)
+		sendTTS(txt)
 
 	if intent in act.hardware_intents:
 		send(act.get_cmd(intent))
