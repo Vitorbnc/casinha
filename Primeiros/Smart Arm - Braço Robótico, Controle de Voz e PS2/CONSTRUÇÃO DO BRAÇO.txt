@@ -1,0 +1,38 @@
+Base: Prato plástico de vaso de planta de 12cm de diâmetro
+Alimentação: 12V para os motores de passo, com ULN2003; 6.2V para os servos de 5V, com o buck LM2596
+
+Giro vertical: 
+-Motor de passo PM35L-048 com redução de parafuso sem-fim e engrenagem extraída de impressora
+-Motor com sem-fim fica na horizontal e a engrenagem (diam. cerca de 30mm) fica na vertical. Todos os eixos são feitos com pedaços de antena de rádio de 6mm de diâmetro.
+-A engrenagem fica entre dois pedaços de madeira de 30x90x10mm e é travada em cima por uma outra engrenagem branca maior colada.
+-Os pedaços de madeira são fixados por 2 suportes laterais parafusados de plástico bem rígido de 66x12x7mm.
+
+Giro horizontal:
+-Motor PM35L-048 colocado na vertical com a mesma redução e engrenagem na horizontal. Motor e redução são parafusados em um cilindro de plático de 70mm de diâmetro
+que fica sobre a engrenagem branca.
+-Eixo feito com 2 pedaços de antena de 95mm de comprimento passa por dentro do furo da engrenagem da redução e constitui o braço (nas imagens é a parte ocultada por um pedaço de papel azul).
+A oura exremidade do eixo é 
+parafusada a um pedaç;o de plástico de 70x12x7mm.Os furos passam pelos furos originais das 2 partes de antena.
+
+Servo do Antebraço 
+-Servo MG995 (torque 11kg/cm @6V) fixado no centro do suporte de plástico do braço, com furo superificial na carcaça. 
+Distância do centro do furo à borda mais próxima da carcaça do servo é 14mm.
+-2 palitos de picolé de 60mm são adicionados ao mesmo furo, e têm a outra extremidade fixada por fita isolante ao meio do braço.
+-2 pedaços de antena de 68mm de comprimento parafusados, um ao eixo do motor e o outro à carcaça oposta , com uma porca para espaçamento, formam o antebraço. A antena
+do lado da carcaça foi achatada e furada, já que não havia furo. O lado do eixo também foi achatado, furado e também usou-se cola quente.
+-O diâmetro do antebraço segue os diâmetro dos servos, afunilando-se de cerca de 51mm (lado do MG995) a 40mm (lado do SG90).
+
+
+Punho:
+-2 micro servos SG90. Um deles é parafusado às extremidades dos eixos de antena que formam o antebraço, usando o próprio adaptador em cruz (o maior) que vem com o micro servo de um lado,
+e uma porca espaçadora e um furo superficial na carcaça do outro. O lado da porca aproveita o furo natural a antena. No lado da cruz um pedaço da antena foi achatado e aparafusado.
+
+Garras:
+-2 pedaços de prestobarba de 65mm de comprimento e diâmetro variável, cerca de 12mm
+-Sensor de pressão: cerca de 6 pequenos interruptores em paralelo, semelhantes à fins-de-curso ou pushbuttons.  
+
+ 
+
+
+
+

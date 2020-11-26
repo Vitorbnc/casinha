@@ -1,0 +1,61 @@
+levanta h;hand_up
+abaixa h;hand_down
+90 graus esquerda;base_left
+90 graus direita;base_right
+este cobrar;arm_straight
+sic o braço;arm_straight
+levanto 6;forearm_up
+abaixo 6;forearm_down
+levando mail;forearm_up
+sobe o meio;forearm_up
+desce o meio;forearm_down
+abaixa mail;forearm_down
+abaixar antebraço;forearm_down
+pai;stop
+levando cotovelo;forearm_up
+facha dedo;hand_close
+sérgio dedo;hand_close
+abrir menu;hand_open
+abre dedo;hand_open
+levantar a base;base_up
+sob a base;base_up
+abaixa a base;base_down
+fechar garra;hand_close
+esquerda burro;base_left
+parar;stop
+relaxar;arm_relaxed
+para cima;base_up
+para;stop
+fecha;hand_close
+fechar agarra;hand_close
+abre a garra;hand_open
+abrir a mão;hand_open
+levantar mão;hand_up
+abaixar mão;hand_down
+abaixo brás;base_down
+levando brás;base_up
+mara;stop
+só de mim;forearm_up
+levantar mail;forearm_up
+descer mail;forearm_down
+levantar antebraço;forearm_up
+descer antebraço;forearm_down
+sobe;base_up
+descer;base_down
+7:00 h;hand_close
+7 h;hand_close
+chegar;stop
+chega;stop
+sei chegar;stop
+siqueira;base_left
+vai para direita;base_right
+esticar o braço;arm_straight
+Me sinto relaxado;arm_relaxed
+Fashion Mall ;hand_close
+fechar a mão;hand_close
+Abaixe;base_down
+abaixar o vídeo;hand_down
+para para;stop
+levantar;base_up
+subir;base_up
+cash;hand_close

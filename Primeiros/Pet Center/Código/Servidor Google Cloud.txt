@@ -1,0 +1,4 @@
+Uma instância f1-micro
+IP Externo: 35.231.59.213
+Mosquitto MQTT disponível em 1883
+Endpoint https para Alexa: https://petcenter2.localtunnel.me

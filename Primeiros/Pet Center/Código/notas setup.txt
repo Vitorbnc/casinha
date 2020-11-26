@@ -1,0 +1,19 @@
+Commands:
+sudo su 
+apt install mosquitto mosquitto-clients python3-pip
+exit
+pip3 install flask flask_ask requests paho-mqtt
+python3 ./petcenter.py
+
+ip:
+https://35.231.59.213:5000
+portas padrão: mqtt - 1883
+http - 80
+https - 443
+
+nohup python3 petcenter.py &>/dev/null &
+nohup lt --subdomain 'petcenter' --port 5000 &>/dev/null &
+
+
+nohup python3 petcenter.py&
+nohup lt --subdomain 'petcenter' --port 5000&

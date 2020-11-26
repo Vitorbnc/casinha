@@ -1,0 +1,7 @@
+mosquitto
+python petcenter.py
+ngrok http 5000
+#Configure o novo endereço do endpoint no skill alexa
+
+#Para ver as mensagens
+mosquitto_sub -t petcenter

@@ -1,0 +1,15 @@
+vídeo do vendedor: https://www.youtube.com/watch?v=tTBIUMceuDg
+modelo: M-140 M-type 2W 445nM Blue 
+usar um máx de 4.8V e 1.8A no diodo com saída óptica esperada de 1.8W 
+
+***   Use uma fonte de corrente constante, respeitando os limites do diodo
+	Ao usar uma fonte CV (constant-voltage) como um regulador (LM2596 por exemplo) e um estágio de CC (constant current), o diodo obedece a seguinte lei:
+	Ele só utilizará a corrente delimitada pelo estágio CC ao ser atingida a tensão mínima (por volta de 4.7V nos terminais do  diodo), lembre-se I=V/R.
+	Portanto, limite a corrente e então vá aumentando a tensão de entrada até que o diodo drene a corrente estabelecida.
+	O uso exclusivo de uma fonte CC como o LM317 em modo regulador de corrente elimina a necessidade desse ajuste, já que ele aumentará a tensão até que a corrente 
+desejada circule pelo circuito.
+
+****** Atualização:
+	Prefira usar apenas uma fonte CC baseada no LM317, sem nenhum regulador de tensão antes, funcionará muito melhor. Se a corrente desejada não for atingida, tente usar bateria de maior taxa de descarga (corrente) ou fonte 
+que forneça maior corrente.
+	Se a corrente desejada não for atingida, alimente o driver (LM317 no caso) com uma tensão maior (p. ex: 12V) ou bateria com menor resistência interna (maior capacidade de corrente)

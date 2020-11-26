@@ -1,0 +1,11 @@
+import asyncio
+import websockets
+import time
+time.sleep(5) # wait 5 secs
+
+async def hello(uri):
+    async with websockets.connect(uri) as websocket:
+        await websocket.send("{btn:0xaf}")
+
+asyncio.get_event_loop().run_until_complete(
+    hello('ws://192.168.1.3:81'))

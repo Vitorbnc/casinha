@@ -1,0 +1,6 @@
+O controle por voz requer:
+-Computador (pode ser raspberry pi) rodando o código python e o broker mqtt mosquitto
+-Smartphone Android com o app Hiper - Voz, Síntese e Reconhecimento de Fala MQTT (Código fonte e explicações em https://github.com/Vitorbnc/Hiper). App disponível na Play Store.
+-ESP8266 como ponte transparente MQTT para repassar os comandos para o serial do arduino do braço
+
+O controle com o Dualshock PS2 requer apenas o ESP ou receptor LoRa ou qualquer coisa do tipo.	

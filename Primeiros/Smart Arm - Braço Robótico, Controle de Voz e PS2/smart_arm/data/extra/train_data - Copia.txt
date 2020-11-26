@@ -1,0 +1,94 @@
+fechar a garra;hand_close
+fechar a mão;hand_close
+fechar;hand_close
+travar;hand_close
+fechar h;hand_close
+trava;hand_close
+fechar;hand_close
+abrir agarra;hand_open
+soltar;hand_open
+liberar;hand_open
+abrir;hand_open
+solta;hand_open
+abrir mão;hand_open
+mão pra cima;hand_up
+curso pra cima;hand_up
+pulso pra cima;hand_up
+levanta o pulso;hand_up
+levanta a mão;hand_up
+abaixa a mão;hand_down
+abaixa agarra;hand_down
+mão pra baixo;hand_down
+pulso pra baixo;hand_down
+pra cima;base_up
+levamos;base_up
+acima;base_up
+base pra cima;base_up
+levanta braço;base_up
+levanto graça;base_up
+subir;base_up
+trabajo;base_down
+para baixo;base_down
+abaixar;base_down
+abaixo braço;base_down
+base pra baixo;base_down
+braço pra baixo;base_down
+esquerda;base_left
+frasqueira;base_left
+mais biqueira;base_left
+base tranqueira;base_left
+girar anti-horário;base_left
+pra direita;base_right
+basta direita;base_right
+direita;base_right
+base pra direita;base_right
+girar horário;base_right
+vamos cotovelo;elbow_up
+levanto me;elbow_up
+levanta o meio;elbow_up
+cotovelo pra cima;elbow_up
+meio pra cima;elbow_up
+abaixo mini;elbow_down
+baixar mini;elbow_down
+abaixar o meio;elbow_down
+meio pra baixo;elbow_down
+abate cotovelo;elbow_down
+abaixa cotovelo;elbow_down
+freira;stop
+frear;stop
+para tudo;stop
+pará;stop
+pare;stop
+chega;stop
+dino;repeat
+mais um pouco;repeat
+de novo;repeat
+novamente;repeat
+continue;repeat
+volta;reverse
+voltar;reverse
+desfazer;reverse
+da ré;reverse
+reverter;reverse
+devagar;slow_down
+mais vaga;slow_down
+mais lento;slow_down
+mais lentamente;slow_down
+mais rápido;speed_up
+rápido;speed_up
+acelera;speed_up
+vendido;arm_straight
+posição de sentido;arm_straight
+estendido;arm_straight
+sentido;arm_straight
+místico braço;arm_straight
+estica;arm_straight
+descansar;arm_relaxed
+posição de descanso;arm_relaxed
+relaxa;arm_relaxed
+relaxar braço;arm_relaxed
+sair;quit
+sai;quit
+saia;quit
+sair do braço;quit
+desligar;quit

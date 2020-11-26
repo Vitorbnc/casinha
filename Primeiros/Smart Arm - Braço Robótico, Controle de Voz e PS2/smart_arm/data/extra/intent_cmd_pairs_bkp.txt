@@ -1,0 +1,18 @@
+hand_close; >grip()
+hand_open; >drop()
+hand_up;  >base.speed(60) >ctl.RPsd(L1)
+hand_down; >base.speed(60) >ctl.RPsd(L2)
+base_up; >base.speed(60) >ctl.DPsd(up)
+base_down;  >base.speed(60) >ctl.DPsd(down)
+base_left;  >base.speed(60) >ctl.DPsd(left)
+base_right;  >base.speed(60) >ctl.DPsd(right)
+forearm_up; >ctl.LPsd(L1)
+forearm_down; >ctl.LPsd(L2)
+stop; >base.stop() >wrist.pitch(0,0) >elbow.pitch(0,0)
+repeat; ---
+reverse; ---
+slow_down; >base.speed(60)
+speed_up; >base.speed(120)
+arm_straight; >elbow.pitch(90) >wrist.pitch(90)
+arm_relaxed; >elbow.pitch(78) >wrist.pitch(90)
+other; ----

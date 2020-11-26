@@ -1,0 +1,3 @@
+Controle por WiFi para o carro (Lamborghini) e o braço, ou qualquer outra aplicação que implemente o protocolo.
+Composto de 2 partes: Arduino + ESP8266
+No esp, o firmware é o espSuite.

@@ -1,0 +1,13 @@
+*Faça o teste dos sensores e aumente a altura do espaçador frontal se necessário
+*Verifique se não há pontos cegos. Se houver, use fita isolante preta mais larga para a linha
+
+Espaçador frontal: capacitor eletrolítico de 1.3cm de diâmetro
+Espaçamento entre os centros dos sensores reflexivos: 1.3cm
+Distância entre a linha de centro dos sensores e a linha de centro das rodas: 12.8cm
+
+Bateria: li-ion 7.2V
+Motor: helicóptero RC candide dupla hélice com reduções
+
+Rodas:
+Diâmetro externo: 5.2cm
+Plástico com borracha, retiradas de impressora

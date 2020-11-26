@@ -1,0 +1,2 @@
+Tentativa de criação de um laser CO2. Inspirado no design de Jarrod Kinsey (http://www.jarrodkinsey.org/)e informações do Sam Laser FAQ. 
+Não obtive laser na saída, embora o resultado tenha sido bastante interessante ;)

@@ -1,0 +1,14 @@
+PROTOCOLO
+O portão espera receber por WebSockets (porta 81) a string:
+{cmd:app_id}
+app_id é qualquer sequência única de caracteres,usada para evitar colisões entre diferentes usuários
+cmd é um dos seguintes comandos:
+btn - simula o pressionamento da botoeira (abre/fecha)
+ace - habilita fechamento automático após 6s
+ace - desablilita fechamento automático
+
+FAQ
+O portão aparece na rede mas não conecta, ou só fica em modo AP (só sua própria rede)
+Res - Acesse o ip do portão pelo navegador e reinsira as credencias da rede de sua casa
+Celular não conecta
+Res - Desabilite redes móveis

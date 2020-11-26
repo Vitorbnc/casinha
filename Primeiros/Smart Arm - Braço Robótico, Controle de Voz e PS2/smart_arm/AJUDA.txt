@@ -1,0 +1,6 @@
+﻿Para executar, use run.py
+Para treinar novamente, só edite os arquivos na pasta data e delete qualquer um com a extensão .bin
+Intents e labels não devem conter espaços ou letras maiúsculas.
+Os arquivos de texto em 'data' não devem conter linhas em branco. Apague-as.
+Devido aos acentos, assegure-se de que todos os arquivos editados foram salvos com a codificação 'UTF-8'
+A não observância dessas instruções acarretará erros em tempo de execução.

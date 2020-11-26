@@ -1,0 +1,209 @@
+fechar a garra;hand_close
+fechar a mão;hand_close
+fechar;hand_close
+travar;hand_close
+fechar h;hand_close
+trava;hand_close
+abrir agarra;hand_open
+soltar;hand_open
+liberar;hand_open
+abrir;hand_open
+solta;hand_open
+abrir mão;hand_open
+mão pra cima;hand_up
+curso pra cima;hand_up
+pulso pra cima;hand_up
+levanta o pulso;hand_up
+levanta a mão;hand_up
+abaixa a mão;hand_down
+abaixa agarra;hand_down
+mão pra baixo;hand_down
+pulso pra baixo;hand_down
+pra cima;base_up
+levamos;base_up
+acima;base_up
+base pra cima;base_up
+levanta braço;base_up
+levanto graça;base_up
+subir;base_up
+trabajo;base_down
+para baixo;base_down
+abaixar;base_down
+abaixo braço;base_down
+base pra baixo;base_down
+braço pra baixo;base_down
+esquerda;base_left
+frasqueira;base_left
+mais biqueira;base_left
+base tranqueira;base_left
+girar anti-horário;base_left
+pra direita;base_right
+basta direita;base_right
+direita;base_right
+base pra direita;base_right
+girar horário;base_right
+vamos cotovelo;forearm_up
+levanto me;forearm_up
+levanta o meio;forearm_up
+cotovelo pra cima;forearm_up
+meio pra cima;forearm_up
+abaixo mini;forearm_down
+baixar mini;forearm_down
+abaixar o meio;forearm_down
+meio pra baixo;forearm_down
+abate cotovelo;forearm_down
+abaixa cotovelo;forearm_down
+freira;stop
+frear;stop
+para tudo;stop
+pará;stop
+pare;stop
+chega;stop
+dino;repeat
+mais um pouco;repeat
+de novo;repeat
+novamente;repeat
+continue;repeat
+volta;reverse
+voltar;reverse
+desfazer;reverse
+da ré;reverse
+reverter;reverse
+devagar;slow_down
+mais vaga;slow_down
+mais lento;slow_down
+mais lentamente;slow_down
+mais rápido;speed_up
+rápido;speed_up
+acelera;speed_up
+vendido;arm_straight
+posição de sentido;arm_straight
+estendido;arm_straight
+sentido;arm_straight
+místico braço;arm_straight
+estica;arm_straight
+descansar;arm_relaxed
+posição de descanso;arm_relaxed
+relaxa;arm_relaxed
+relaxar braço;arm_relaxed
+levanta h;hand_up
+abaixa h;hand_down
+90 graus esquerda;base_left
+90 graus direita;base_right
+este cobrar;arm_straight
+sic o braço;arm_straight
+levanto 6;forearm_up
+abaixo 6;forearm_down
+levando mail;forearm_up
+sobe o meio;forearm_up
+desce o meio;forearm_down
+abaixa mail;forearm_down
+abaixar antebraço;forearm_down
+pai;stop
+levando cotovelo;forearm_up
+facha dedo;hand_close
+sérgio dedo;hand_close
+abrir menu;hand_open
+abre dedo;hand_open
+levantar a base;base_up
+sob a base;base_up
+abaixa a base;base_down
+fechar garra;hand_close
+esquerda burro;base_left
+parar;stop
+relaxar;arm_relaxed
+para cima;base_up
+para;stop
+fecha;hand_close
+fechar agarra;hand_close
+abre a garra;hand_open
+abrir a mão;hand_open
+levantar mão;hand_up
+abaixar mão;hand_down
+abaixo brás;base_down
+levando brás;base_up
+mara;stop
+só de mim;forearm_up
+levantar mail;forearm_up
+descer mail;forearm_down
+levantar antebraço;forearm_up
+descer antebraço;forearm_down
+sobe;base_up
+descer;base_down
+7:00 h;hand_close
+chegar;stop
+chega;stop
+sei chegar;stop
+siqueira;base_left
+vai para direita;base_right
+esticar o braço;arm_straight
+me sinto relaxado;arm_relaxed
+fashion mall;hand_close
+fechar a mão;hand_close
+abaixe;base_down
+abaixar o vídeo;hand_down
+para para;stop
+levantar;base_up
+subir;base_up
+sair;exit
+sai;exit
+saia;exit
+sair do braço;exit
+desligar;exit
+não passa na volta;other
+então não casa não;other
+bicicleta;other
+olá;greet
+quantos anos você tem;agent_age
+e pela internet tá ruim;other
+meu fernando;other
+ligar por voz;other
+espírito atrasado;other
+quero saber;other
+fã;other
+hamachi;other
+nossa se ligar na casa;other
+bom garoto;compliment
+isso aí;compliment
+muito bom;compliment
+muito bem;compliment
+ótimo;compliment
+excelente;compliment
+tá errado burro;criticism
+b******;criticism
+péssimo;criticism
+não burro;criticism
+corno;criticism
+oi;greet
+bom dia;greet
+boa tarde;greet
+boa noite;greet
+outra vez;repeat
+abra a mão;hand_open
+levanta o mei;forearm_up
+levantar o antebraço;forearm_up
+mandar um e-mail;forearm_up
+fast;speed_up
+estique o braço;forearm_up
+abaixa o braço;base_down
+levanta o braço;base_up
+chico braz;arm_straight
+cansar;arm_relaxed
+abaixo meio;forearm_down
+só do meio;forearm_up
+par;stop
+levantei;base_up
+abaixar agarrar;hand_down
+levantar agarra;hand_up
+abaixar o dedo;hand_down
+levantar a mão;hand_up
+levantar agarra;hand_up
+direito;base_right
+trabalho;base_down
+fecho;hand_close
+feche;hand_close
+tipo o braço;arm_straight
+abaixa;base_down
+relaxe brás;arm_relaxed
+para pará;stop
+tipo graça;arm_straight

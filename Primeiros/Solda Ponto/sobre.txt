@@ -1,0 +1,4 @@
+Primário de transformador de micro-ondas (110V).
+Secundário: 3 voltas fio 3 AWG
+Tensão de saída: aprox. 2.5VAC
+Tampa do transformador presa com parafuso e 2 pequenas barras retangulares

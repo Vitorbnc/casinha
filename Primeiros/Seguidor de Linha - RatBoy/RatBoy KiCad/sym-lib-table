@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RatBoy-rescue)(type Legacy)(uri ${KIPRJMOD}/RatBoy-rescue.lib)(options "")(descr ""))
+  (lib (name RatBoy_bluepill_internals1-rescue)(type Legacy)(uri ${KIPRJMOD}/RatBoy_bluepill_internals1-rescue.lib)(options "")(descr ""))
+)

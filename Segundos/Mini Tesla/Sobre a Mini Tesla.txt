@@ -1,0 +1,5 @@
+Voltas: aprox 400 (só estimado)
+Idutância: aprox. 3.2mH
+
+Funcionou o suficiente para acender uma lâmpada fluorescente ao aproximá-la da bobina, mas não produziu grandes faíscas
+com o driver "Slayer exciter".
