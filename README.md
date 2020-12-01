@@ -14,7 +14,7 @@ Beware - big mess ahead! The folder **Primeiros** contains projects that are new
 ### Published Projects
 
 
-- [multiScope - hackaday](https://hackaday.io/project/20821-multiscope)
+- [multiScope - oscilloscope, frequency counter and inductance meter with a touch screen - hackaday](https://hackaday.io/project/20821-multiscope)
   - [multiScope - instructable](https://www.instructables.com/id/Fast-Portable-and-Affordable-Oscilloscope-and-Indu/)
 
 - [Fusor - easy to build model of an inertial confinement reactor, very amusing!](https://www.instructables.com/id/Real-Life-Arc-Reactor-a-Working-Fusion-Reactor-Mod/)
@@ -23,7 +23,7 @@ Beware - big mess ahead! The folder **Primeiros** contains projects that are new
 
 - [Modified Lamborghini RC Car - video](https://www.youtube.com/playlist?list=PLmUs_lOXmMEDM3TWjs7czqJrOFYxlOGZQ)
 
-- [Lampinho - magnetic levitating light light](https://www.instructables.com/id/Gesture-Controlled-Levitating-Night-Light/)
+- [Lampinho - magnetic levitating night light](https://www.instructables.com/id/Gesture-Controlled-Levitating-Night-Light/)
 
 - [protoBox](https://hackaday.io/project/2561-protobox)
   - [protoBox - video](https://youtu.be/7HwhwpjOR7w)
