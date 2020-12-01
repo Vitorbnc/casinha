@@ -17,20 +17,20 @@ Beware - big mess ahead! The folder **Primeiros** contains projects that are new
 - [multiScope - hackaday](https://hackaday.io/project/20821-multiscope)
   - [multiScope - instructable](https://www.instructables.com/id/Fast-Portable-and-Affordable-Oscilloscope-and-Indu/)
 
-- [Fusor](https://www.instructables.com/id/Real-Life-Arc-Reactor-a-Working-Fusion-Reactor-Mod/)
+- [Fusor - easy to build model of an inertial confinement reactor, very amusing!](https://www.instructables.com/id/Real-Life-Arc-Reactor-a-Working-Fusion-Reactor-Mod/)
   - [Fusor - 12V test video](https://www.youtube.com/watch?v=6fZ-BzcevNQ)
   - [Fusor - 53V test video](https://www.youtube.com/watch?v=GGRel_bjdNY)
 
-- [Modified Lamborghini RC - video](https://www.youtube.com/playlist?list=PLmUs_lOXmMEDM3TWjs7czqJrOFYxlOGZQ)
+- [Modified Lamborghini RC Car - video](https://www.youtube.com/playlist?list=PLmUs_lOXmMEDM3TWjs7czqJrOFYxlOGZQ)
 
-- [Lampinho](https://www.instructables.com/id/Gesture-Controlled-Levitating-Night-Light/)
+- [Lampinho - magnetic levitating light light](https://www.instructables.com/id/Gesture-Controlled-Levitating-Night-Light/)
 
 - [protoBox](https://hackaday.io/project/2561-protobox)
   - [protoBox - video](https://youtu.be/7HwhwpjOR7w)
   
  - [Simple hot air for SMD - video](https://youtu.be/d3cpQf9fZMI)
 
-- [Pet Center](https://www.hackster.io/vitor-barbosa/pet-center-feed-and-entertain-your-pet-f6a1c1)
+- [Pet Center - feed and entertain your pet with Amazon Alexa](https://www.hackster.io/vitor-barbosa/pet-center-feed-and-entertain-your-pet-f6a1c1)
 
 - [Chocante - Musical HV Power Supply - video](https://youtu.be/UQSp49XbSWg)
 
