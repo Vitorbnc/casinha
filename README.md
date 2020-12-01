@@ -33,3 +33,5 @@ Beware - big mess ahead! The folder **Primeiros** contains projects that are new
 - [Pet Center](https://www.hackster.io/vitor-barbosa/pet-center-feed-and-entertain-your-pet-f6a1c1)
 
 - [Chocante - Musical HV Power Supply - video](https://youtu.be/UQSp49XbSWg)
+
+- [Smart Arm - Machine Learning powered voice controlled robot arm - video](https://youtu.be/0p_B7lS6bvE)
