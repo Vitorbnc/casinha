@@ -5,7 +5,7 @@
 The folder **Primeiros** contains projects that are newer or more complete. **Segundos** contains other projects. Some projects have already been published, they're listed below. Some projects don't even work, but I've kept them as a record, perhaps to revisit later with better knowledge and resources. The plan is to reorganize all the relevant stuff in a website someday.
 
 
-### WARNING:
+### Warning and Disclaimer:
 - Some projects involve Class IV lasers and High Voltage. Always use adequate protection equipment. You are legally responsible for any use of the information in this repository, and any injury resulting from its use.
 - I'm Brazilian, so most instructions of unpublished stuff will be in Portuguese. Portuguese is a beautiful and rich language, give it a shot if you have the chance.
 - Some unpublished projects contain third party content (like snapshots of webpages or documents written together with colleagues), please do not use these without permission. Just ask me if in doubt about a specific case.
