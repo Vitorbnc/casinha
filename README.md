@@ -16,9 +16,11 @@ The folder **Primeiros** contains projects that are newer or more complete. **Se
 
 - [multiScope - oscilloscope, frequency counter and inductance meter with a touch screen - hackaday](https://hackaday.io/project/20821-multiscope)
   - [multiScope - instructable](https://www.instructables.com/id/Fast-Portable-and-Affordable-Oscilloscope-and-Indu/)
+  - [in the news!](https://hackaday.com/2017/06/15/hackaday-prize-entry-oscilloscope-for-the-masses/)
 
 - [haxmark460 - home pcb printer](https://hackaday.io/project/171775-haxmark460-home-pcb-printer)
   - [repo](https://github.com/Vitorbnc/haxmark460)
+  - [in the news!](https://www.hackster.io/news/vitor-barbosa-s-haxmark460-converts-a-lexmark-laser-printer-into-a-pcb-production-machine-36812afd951c)
   - [more pcb making stuff](https://github.com/Vitorbnc/pcbfab)
 
 - [Fusor - easy to build model of an inertial confinement reactor, very amusing!](https://www.instructables.com/id/Real-Life-Arc-Reactor-a-Working-Fusion-Reactor-Mod/)
