@@ -29,6 +29,10 @@ The folder **Primeiros** contains projects that are newer or more complete. **Se
 
 - [Pet Center - feed and entertain your pet with Amazon Alexa](https://www.hackster.io/vitor-barbosa/pet-center-feed-and-entertain-your-pet-f6a1c1)
 
+- [Smart Arm - Machine Learning powered voice controlled robot arm - video](https://youtu.be/0p_B7lS6bvE)
+
+- [Chocante - Musical HV Power Supply - video](https://youtu.be/UQSp49XbSWg)
+
 - [Modified Lamborghini RC Car - video](https://www.youtube.com/playlist?list=PLmUs_lOXmMEDM3TWjs7czqJrOFYxlOGZQ)
 
 - [Lampinho - magnetic levitating night light](https://www.instructables.com/id/Gesture-Controlled-Levitating-Night-Light/)
@@ -38,6 +42,5 @@ The folder **Primeiros** contains projects that are newer or more complete. **Se
   
  - [Simple hot air for SMD - video](https://youtu.be/d3cpQf9fZMI)
 
-- [Chocante - Musical HV Power Supply - video](https://youtu.be/UQSp49XbSWg)
 
-- [Smart Arm - Machine Learning powered voice controlled robot arm - video](https://youtu.be/0p_B7lS6bvE)
+
