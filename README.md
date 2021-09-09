@@ -21,9 +21,10 @@ The folder **Primeiros** contains projects that are newer or more complete. **Se
 - [haxmark460 - home pcb printer](https://hackaday.io/project/171775-haxmark460-home-pcb-printer)
   - [repo](https://github.com/Vitorbnc/haxmark460)
   - [in the news!](https://www.hackster.io/news/vitor-barbosa-s-haxmark460-converts-a-lexmark-laser-printer-into-a-pcb-production-machine-36812afd951c)
-  - [more pcb making stuff](https://github.com/Vitorbnc/pcbfab)
+  - [more pcb making stuff - pcbfab](https://github.com/Vitorbnc/pcbfab)
 
 - [Fusor - easy to build model of an inertial confinement reactor, very amusing!](https://www.instructables.com/id/Real-Life-Arc-Reactor-a-Working-Fusion-Reactor-Mod/)
+  - [what's a Fusor? - wikipedia](https://en.wikipedia.org/wiki/Fusor)
   - [Fusor - 12V test video](https://www.youtube.com/watch?v=6fZ-BzcevNQ)
   - [Fusor - 53V test video](https://www.youtube.com/watch?v=GGRel_bjdNY)
 
