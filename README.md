@@ -24,7 +24,7 @@ The folder **Primeiros** contains projects that are newer or more complete. **Se
   - [more pcb making stuff - pcbfab](https://github.com/Vitorbnc/pcbfab)
 
 - [Fusor - easy to build model of an inertial confinement reactor, very amusing!](https://www.instructables.com/id/Real-Life-Arc-Reactor-a-Working-Fusion-Reactor-Mod/)
-  - [what's a Fusor? - wikipedia](https://en.wikipedia.org/wiki/Fusor)
+  - [what is a Fusor? - wikipedia](https://en.wikipedia.org/wiki/Fusor)
   - [Fusor - 12V test video](https://www.youtube.com/watch?v=6fZ-BzcevNQ)
   - [Fusor - 53V test video](https://www.youtube.com/watch?v=GGRel_bjdNY)
 
