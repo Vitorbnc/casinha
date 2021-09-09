@@ -32,11 +32,11 @@ The folder **Primeiros** contains projects that are newer or more complete. **Se
 
 - [Smart Arm - Machine Learning powered voice controlled robot arm - video](https://youtu.be/0p_B7lS6bvE)
 
-- [Modified Lamborghini RC Model Car - video](https://www.youtube.com/playlist?list=PLmUs_lOXmMEDM3TWjs7czqJrOFYxlOGZQ)
+- [Lampinho - magnetic levitating night light](https://www.instructables.com/id/Gesture-Controlled-Levitating-Night-Light/)
 
 - [Chocante - Musical HV Power Supply - video](https://youtu.be/UQSp49XbSWg)
 
-- [Lampinho - magnetic levitating night light](https://www.instructables.com/id/Gesture-Controlled-Levitating-Night-Light/)
+- [Modified Lamborghini RC Model Car - video](https://www.youtube.com/playlist?list=PLmUs_lOXmMEDM3TWjs7czqJrOFYxlOGZQ)
 
 - [protoBox](https://hackaday.io/project/2561-protobox)
   - [protoBox - video](https://youtu.be/7HwhwpjOR7w)
