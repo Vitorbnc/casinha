@@ -1,6 +1,6 @@
 # casinha
 
-### Projects made in the Casinha, my home workshop
+### Projects made at Casinha, my home workshop
 
 The folder **Primeiros** contains projects that are newer or more complete. **Segundos** contains other projects. Some projects have already been published, they're listed below. Some projects don't even work, but I kept them as a record, perhaps to revisit later with better knowledge and resources. The plan is to reorganize all the relevant stuff in a website someday.
 
