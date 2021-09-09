@@ -7,7 +7,7 @@ The folder **Primeiros** contains projects that are newer or more complete. **Se
 
 ### WARNING:
 - Some projects involve Class IV lasers and High Voltage. Always use adequate protection equipment. I will not be held responsible for any damage or injury. 
-- I'm Brazilian, so most instructions of unpublished stuff will be in Portuguese. Portuguese is a beautiful and rich language, consider learning it some day if you have the chance.
+- I'm Brazilian, so most instructions of unpublished stuff will be in Portuguese. Portuguese is a beautiful and rich language, give it a shot if you have the chance.
 - Some projects contain third party content (like snapshots of webpages or documents written together with colleagues), please do not use these without permission. Just ask me if in doubt about a specific case.
 
 
