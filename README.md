@@ -2,7 +2,7 @@
 
 ### Projects made at Casinha, my home workshop
 
-The folder **Primeiros** contains projects that are newer or more complete. **Segundos** contains other projects. Some have already been published, they're listed below. 
+The folder **Primeiros** contains projects that are newer or more complete. **Segundos** contains other projects. Some have already been published, and they're listed below. 
 
 Some unpublished projects are not finished, but I've kept them as a record, perhaps to revisit later with better knowledge and resources. The plan is to reorganize all the relevant bits in a website someday.
 
