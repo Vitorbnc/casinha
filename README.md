@@ -10,7 +10,7 @@ I'm Brazilian, so most instructions of unpublished stuff will be in Portuguese. 
 
 
 ### Warning and Disclaimer:
-- These projects may involve Class IV lasers and/or High Voltage. Always use adequate protection equipment. You are legally responsible for any use of the information in this repository, and any injury resulting from its use.
+These projects may involve Class IV lasers and/or High Voltage. Always use adequate protection equipment. You are legally responsible for any use of the information in this repository, and any injury resulting from its use.
 
 ### Published Projects
 
