@@ -2,18 +2,15 @@
 
 ### Projects made at Casinha, my home workshop
 
-The folder **Primeiros** contains projects that are newer or more complete. **Segundos** contains other projects. Some projects have already been published, they're listed below. 
+The folder **Primeiros** contains projects that are newer or more complete. **Segundos** contains other projects. Some have already been published, they're listed below. 
 
-Some unpublished projects don't work, but I've kept them as a record, perhaps to revisit later with better knowledge and resources. The plan is to reorganize all the relevant stuff in a website someday.
+Some unpublished projects are not finished, but I've kept them as a record, perhaps to revisit later with better knowledge and resources. The plan is to reorganize all the relevant bits in a website someday.
 
 I'm Brazilian, so most instructions of unpublished stuff will be in Portuguese. Portuguese is a beautiful and rich language, give it a shot if you have the chance.
 
 
-
 ### Warning and Disclaimer:
-- Some projects involve Class IV lasers and High Voltage. Always use adequate protection equipment. You are legally responsible for any use of the information in this repository, and any injury resulting from its use.
-- A few unpublished projects contain third party content (like snapshots of webpages or documents written in collaboration with colleagues), please do not reproduce these without permission. Just ask me if in doubt about a specific case.
-
+- These projects may involve Class IV lasers and/or High Voltage. Always use adequate protection equipment. You are legally responsible for any use of the information in this repository, and any injury resulting from its use.
 
 ### Published Projects
 
