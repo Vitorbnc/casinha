@@ -1,7 +1,7 @@
 # casinha
 
 ### Projects made at Casinha, my home workshop
-#### If you don't wanna read anything:
+#### If you don't wanna read anything, see them:
 - [On Hackaday](https://hackaday.io/vitorbarbosa)
 - [On Instructables](https://www.instructables.com/member/Vitorbnc/)
 #### If you do:
