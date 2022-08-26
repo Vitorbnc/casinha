@@ -1,6 +1,9 @@
 # casinha
 
 ### Projects made at Casinha, my home workshop
+## If you don't wanna read anything:
+- [On Hackaday](https://hackaday.io/vitorbarbosa)
+- [On Instructables](https://www.instructables.com/member/Vitorbnc/)
 
 The folder **Primeiros** contains projects that are newer or more complete. **Segundos** contains other projects. Some have already been published and are listed below. 
 
